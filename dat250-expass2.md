@@ -25,9 +25,10 @@ many (many to one) except for the relation between CreditCard
 and Pincode which is one to one. I see that in det model this
 relation is one to many, but I think it makes more sens with
 one to one.
-![img.png](pictures/bankDb.png)
+![img.png](pictures/bankingDb.png)
 ![img.png](pictures/addressTable.png)
-![img.png](pictures/personBankTable.png)
+![img.png](pictures/bankingPersonTable.png)
+![img.png](pictures/addressPersonTable.png)
 ![img.png](pictures/bankTable.png)
 ![img.png](pictures/pincodeTable.png)
 ![img.png](pictures/creditCardTable.png)
