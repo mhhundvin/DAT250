@@ -11,12 +11,12 @@ https://github.com/mhhundvin/dat250-jpa-examples
 ### Inspection of the database tables
 In this picture you can see that I successfully manged to
 update the TODO table in the database.
-![img.png](pictures/todoTable.png)
+![img.png](picturesExpass2/todoTable.png)
 
 This pictures shows that the test for the eclipselink
 projects passed, and I edited the test to add a family relation.
-![img.png](pictures/personTable.png)
-![img.png](pictures/familyTable.png)
+![img.png](picturesExpass2/personTable.png)
+![img.png](picturesExpass2/familyTable.png)
 
 For the final part of the exercise I created the classes
 Address, Person, Bank, Pincode and CreditCard, with
@@ -25,13 +25,13 @@ many (many to one) except for the relation between CreditCard
 and Pincode which is one to one. I see that in det model this
 relation is one to many, but I think it makes more sens with
 one to one.
-![img.png](pictures/bankingDb.png)
-![img.png](pictures/addressTable.png)
-![img.png](pictures/bankingPersonTable.png)
-![img.png](pictures/addressPersonTable.png)
-![img.png](pictures/bankTable.png)
-![img.png](pictures/pincodeTable.png)
-![img.png](pictures/creditCardTable.png)
+![img.png](picturesExpass2/bankingDb.png)
+![img.png](picturesExpass2/addressTable.png)
+![img.png](picturesExpass2/bankingPersonTable.png)
+![img.png](picturesExpass2/addressPersonTable.png)
+![img.png](picturesExpass2/bankTable.png)
+![img.png](picturesExpass2/pincodeTable.png)
+![img.png](picturesExpass2/creditCardTable.png)
 
 
 ### Pending issues
