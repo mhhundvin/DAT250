@@ -32,7 +32,7 @@ My operation and its result on the inventory collection:
 ![img.png](picturesExpass3/myoperation.png)
 
 ### My Map-reduce operation in Experiment 2
-This operation is useful, for people to know how much there is of the
+This operation is useful for people to know how much there is of the
 different items in the inventory. The collection we obtain
 from this operation is a list of all items once, (no duplicates)
 and the quantity of the items.
