@@ -9,8 +9,8 @@ and not 4.4. But the map-reduce operations still works.
 Validation:
 ![img.png](picturesExpass3/validation.png)
 
-Relevant results obtained during Experiment 1:    
-*Successfully inserted into db*
+Experiment 1:    
+*Successfully inserted into collection inventory*
 ![img.png](picturesExpass3/insert.png)
 *Query*
 ![img.png](picturesExpass3/query.png)
@@ -22,8 +22,6 @@ Relevant results obtained during Experiment 1:
 ![img.png](picturesExpass3/bulk-write.png)
 
 
-
-
 Experiment 2:  
 The result after doing the map-reduce operation on the
 orders collection using the mapFunction2, reduceFunction2,
@@ -33,8 +31,8 @@ same with the "Aggregation Alternative".
 My operation and its result on the inventory collection:
 ![img.png](picturesExpass3/myoperation.png)
 
-### Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
-This operation is useful to know how much there is of the
+### My Map-reduce operation in Experiment 2
+This operation is useful, for people to know how much there is of the
 different items in the inventory. The collection we obtain
 from this operation is a list of all items once, (no duplicates)
 and the quantity of the items.
