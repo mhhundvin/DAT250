@@ -12,4 +12,5 @@ Experiment 3: /Experiment1-3/demo/src/main/java/com/example/restservice
 Experiment 4: /Experiment4/complete/src/main/java/com/example/accessingdatajpa
 
 ### Pending issues
-No pending issues.
+I can't run experiment 1-3 from the terminal with the mvnw spring-boot:run
+command, but I can run it in Intellij.
